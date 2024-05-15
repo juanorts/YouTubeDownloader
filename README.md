@@ -39,6 +39,7 @@ python3 YouTubeDownloader.py
 ````
 
 **Create the executable app**
+-
 You can create an executable file (e.g, `.exe` in Windows or `.app` in macOS) using the `pyinstaller` library:
 ````
 pyinstaller --windowed --icon='resources/ytdicon.png' --add-data="resources/ytdicon.png:resources" YouTubeDownloader.py
