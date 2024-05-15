@@ -2,8 +2,6 @@
 
 ### YouTube video and audio downloader application using PyTube
 
-Juan Orts `https://www.github.com/juanorts`
-
 **What is included?**
 -
 - Video download in highest resolution available in `.mp4` format.
